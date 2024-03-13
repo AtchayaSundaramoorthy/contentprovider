@@ -36,7 +36,7 @@ Name: Atchaya.S
 */
 ```
 ##MainAcitivity.java
-```
+```Java
 package com.example.contactdetails;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -176,7 +176,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-
+![WhatsApp Image 2024-03-13 at 10 26 40 PM](https://github.com/AtchayaSundaramoorthy/contentprovider/assets/119393516/af51e6cf-5865-4e17-ab11-4d5e4371fe92)
 
 
 ## RESULT
