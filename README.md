@@ -176,7 +176,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![image](https://github.com/AtchayaSundaramoorthy/contentprovider/assets/119393516/c0b98af5-9841-478b-b176-e93538ec0797)
+
 
 
 ## RESULT
